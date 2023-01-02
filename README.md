@@ -1,0 +1,10 @@
+# The .env file should contain
+
+PORT=8000
+MONGO_CON_STR=mongodb://localhost:27017/animalsdb
+EMAIL_EMAIL=
+CLINET_ID=
+CLIENT_SECRET=
+REFRESH_TOKEN=
+JWT_KEY=
+JWT_RESET_PASSWORD_KEY=
